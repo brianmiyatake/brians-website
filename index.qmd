@@ -2,4 +2,4 @@
 title: "Brian's website"
 ---
 
-![]("img/nba-division-grid.jpg")
+![](img/nba-division-grid.jpg)
